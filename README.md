@@ -1,6 +1,8 @@
 HIKING DAY
 ==========
 
+![screenshot](/textures/screenshot.jpg "screenshot")
+
 A short game demo made with the blender game engine ( http://www.blender.org ). This was made in 5 days, so please excuse the poorly finished things...
 
 You were hiking somewhere, on a nice summer day, when suddenly some rocks fall behind you...
