@@ -10,7 +10,13 @@ You were hiking somewhere, on a nice summer day, when suddenly some rocks fall b
 INSTALL
 -------
 
-To install the game, simply download one of the complete versions of the game from the "builds" directory. Unzip it, and launch the "hikingday" application inside. Alternatively, or if your system doesn't appear in the builds, you can download the complete source (.blend file with textures, fonts and sounds folders) and run it from inside blender.
+To install the game, simply download one of the complete versions from here:.
+
+* Windows: http://www.4shared.com/zip/zZvDQYXY/hikingday_windows_32bits.html
+* Linux 32bits: http://www.4shared.com/zip/f_vBQtXc/hikingday_linux_32bits.html
+* Linux 64bits: http://www.4shared.com/zip/rFKGYMY0/hikingday_linux_64bits.html
+
+Unzip it, and launch the "hikingday" application inside. Alternatively, or if your system doesn't appear in the builds, you can download the complete source here (there is a "download Zip" button on the right), and run the game from inside blender (menu Game -> Start game).
 
 Note that the game requires a more or less good 3D chipset, otherwise it might run very slowly. It runs in 1920x1080 at 60fps with a geforce 660m, 30fps with intel i7, 15fps with a geforce 310m, and 8fps with intel i5...
 
