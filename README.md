@@ -7,10 +7,14 @@ A short game demo made with the blender game engine ( http://www.blender.org ). 
 
 You were hiking somewhere, on a nice summer day, when suddenly some rocks fall behind you...
 
-USAGE
------
+INSTALL
+-------
 
-To play the game, you must first download the entire contents of this repository, and install blender on your machine. Then, open the .blend file and press "P" to run the game. Sorry, for now that's the only way. I plan to release standalone versions when I find how to do that properly.
+To install the game, simply download one of the complete versions of the game from the "builds" directory. Unzip it, and launch the "hikingday" application inside. Alternatively, or if your system doesn't appear in the builds, you can download the complete source (.blend file with textures, fonts and sounds folders) and run it from inside blender.
+
+Note that the game requires a more or less good 3D chipset, otherwise it might run very slowly. It runs in 1920x1080 at 60fps with a geforce 660m, 30fps with intel i7, 15fps with a geforce 310m, and 8fps with intel i5...
+
+You can speedup the game by opening the blend file in blender, untick the "Use desktop resolution" checkbox and reduce the resolution settings.
 
 CONTROLS
 --------
